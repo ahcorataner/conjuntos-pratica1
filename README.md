@@ -129,15 +129,15 @@ python conjuntos.py
 
 ---
 
-## 7. Execução
+## 7. Imagens de Execução
 
-### Definição dos Conjuntos
+### Definição dos Conjuntos pelo Usuário
 
 <p align="center">
   <img src="imagens/im1.png" alt="Definição dos conjuntos" width="750">
 </p>
 
-### Resultados das Operações
+### Resultados das Operações dos Conjuntos
 
 <p align="center">
   <img src="imagens/im2.png" alt="Resultados das operações de conjuntos" width="750">
@@ -171,6 +171,7 @@ Para dúvidas, sugestões ou solicitações relacionadas a este projeto:
 * **Renata Costa Rocha** — [renata.rocha@discente.ufma.br](mailto:renata.rocha@discente.ufma.br)
 * **Raphael Câmara Sá** — [raphael.sa@discente.ufma.br](mailto:raphael.sa@discente.ufma.br)
 ---
+
 
 
 
