@@ -8,7 +8,7 @@
   <strong>Centro de Ciências Exatas e Tecnologias</strong><br>
   <strong>Curso de Engenharia da Computação</strong><br>
   <strong>Disciplina: Lógica e Matemática Discreta</strong><br>
-  <strong>Prof. Rondineli Seba</strong><br><br>
+  <strong>Professor: Rondineli Seba</strong><br><br>
   <strong>Discentes:</strong><br>
   <strong>Renata Costa Rocha</strong> — Matrícula: 20240001556<br>
   <strong>Raphael Câmara Sá</strong> — Matrícula: 20240001547
@@ -171,5 +171,6 @@ Para dúvidas, sugestões ou solicitações relacionadas a este projeto:
 * **Renata Costa Rocha** — [renata.rocha@discente.ufma.br](mailto:renata.rocha@discente.ufma.br)
 * **Raphael Câmara Sá** — [raphael.sa@discente.ufma.br](mailto:raphael.sa@discente.ufma.br)
 ---
+
 
 
