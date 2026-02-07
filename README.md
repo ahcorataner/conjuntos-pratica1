@@ -129,7 +129,7 @@ python conjuntos.py
 
 ---
 
-## 7. Exemplos de Execução
+## 7. Execução
 
 ### Definição dos Conjuntos
 
@@ -171,6 +171,7 @@ Para dúvidas, sugestões ou solicitações relacionadas a este projeto:
 * **Renata Costa Rocha** — [renata.rocha@discente.ufma.br](mailto:renata.rocha@discente.ufma.br)
 * **Raphael Câmara Sá** — [raphael.sa@discente.ufma.br](mailto:raphael.sa@discente.ufma.br)
 ---
+
 
 
 
